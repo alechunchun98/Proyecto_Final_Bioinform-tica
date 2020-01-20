@@ -1,4 +1,4 @@
-# Proyecto_Final_Bioinform-tica
+# Proyecto_Final_Bioinformatica
 Paquete realizado como proyecto final de la asignatura de Bioinformática realizado por Alejandro Moreno Díaz, estudiante de la Universidad Politécnica de Madrid.
 
 Este paquete realiza las siguientes tareas:
