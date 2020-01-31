@@ -19,7 +19,7 @@ El paquete es la carpeta bioinfopaquete
 Luego está el archivo main que llama al paquete y ejecuta los módulos.
 
 El archivo utilizado como query puede tener una o varias secuencias queries.
-El archivo utilizado como genebank puede tener las siguientes extensiones: .gb .gbff 
+El archivo utilizado como genebank puede tener las siguientes extensiones: .gbk .gbff 
 El archivo query puede contener varias secuencias pero para todas se usa el mismo Genbank determinado por el usuario
 
 Los resultados generados se almacenan en un directorio Results y por cada query se crea un directorio dentro de Results con los resultados de cada query y los archivos durante la ejecución. 
